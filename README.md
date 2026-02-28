@@ -1,24 +1,26 @@
-# 📊 Customer Churn Analysis Dashboard  
+# 📊 Business Sales Performance Analytics Dashboard  
 
-From raw customer data to actionable churn insights.
+From raw sales data to a strategic decision-making dashboard.
 
 ---
 
 ## 📌 Project Overview  
 
-This project focuses on analyzing customer churn data to identify key factors influencing customer retention and attrition. The objective was to transform raw customer data into a structured, insight-driven dashboard that helps businesses understand churn patterns and improve decision-making.
+This project focuses on analyzing business sales data to identify revenue trends, top-selling products, high-value categories, and regional performance.  
 
-The analysis was performed using **Power BI**, where data cleaning, KPI creation, and interactive visualizations were implemented to generate meaningful insights.
+The objective was to transform raw sales records into a structured, insight-driven Power BI dashboard that enables data-driven decision-making.
+
+Using business analytics techniques, the dashboard highlights key performance indicators (KPIs) and uncovers patterns that impact profitability and growth.
 
 ---
 
 ## 🎯 Objectives  
 
-- Identify overall churn rate  
-- Analyze churn trends across different customer segments  
-- Examine the impact of monthly charges and contract types  
-- Evaluate tenure distribution among churned customers  
-- Discover high-risk customer categories  
+- Analyze sales and profit trends over time  
+- Identify top-performing and loss-making products  
+- Evaluate category and sub-category performance  
+- Compare regional sales and profitability  
+- Assess the impact of discounts on profit margins  
 
 ---
 
@@ -33,40 +35,43 @@ The analysis was performed using **Power BI**, where data cleaning, KPI creation
 
 ## 📊 Key Metrics  
 
-- Total Customers  
-- Total Churned Customers  
-- Churn Rate (%)  
-- Average Monthly Charges  
-- Average Tenure  
+- Total Sales  
+- Total Profit  
+- Total Quantity Sold  
+- Profit Margin (%)  
+- Average Discount  
 
 ---
 
 ## 📈 Dashboard Features  
 
-- KPI cards for quick performance overview  
-- Churn distribution by contract type  
-- Monthly charges vs churn comparison  
-- Tenure analysis of churned customers  
-- Segment-wise churn breakdown  
-- Interactive filters for dynamic analysis  
+- KPI cards for executive summary  
+- Sales & Profit trend analysis (monthly/yearly)  
+- Top 10 products by revenue  
+- Category & sub-category performance comparison  
+- Regional sales and profitability analysis  
+- Discount vs Profit relationship visualization  
+- Interactive slicers for dynamic filtering  
 
 ---
 
 ## 💡 Key Insights  
 
-- Customers with higher monthly charges showed a higher likelihood of churn.  
-- Month-to-month contract customers had significantly higher churn rates.  
-- Longer tenure customers were less likely to churn.  
-- Certain service categories showed stronger correlation with churn behavior.  
+- High sales do not always translate into high profit.  
+- Heavy discounts significantly reduce profit margins.  
+- Certain categories drive revenue, while others drive profitability.  
+- Regional performance varies, requiring targeted business strategies.  
+- A well-designed dashboard improves clarity and supports faster decisions.
 
 ---
 
 ## 🚀 Learning Outcomes  
 
-- Improved understanding of business problem framing  
-- Hands-on experience with Power BI dashboard creation  
-- Strengthened DAX and KPI calculation skills  
-- Enhanced ability to convert raw data into business insights  
+- Hands-on experience with Power BI for the first time  
+- Practical understanding of business analytics concepts  
+- KPI creation using DAX measures  
+- Data storytelling through visualization  
+- Converting raw data into actionable business insights  
 
 ---
 
@@ -78,4 +83,4 @@ _Add a screenshot of your dashboard here_
 
 ## 📬 Connect  
 
-If you found this project interesting or have suggestions, feel free to connect or share feedback.
+If you found this project insightful or would like to collaborate, feel free to connect and share your feedback.
